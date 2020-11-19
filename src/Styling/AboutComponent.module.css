@@ -1,0 +1,30 @@
+.header{
+    text-align: center;
+    font-size: 25px;
+    font-weight: normal;
+    color: #546e7a;
+}
+.para{
+    text-align: center;
+    padding: 10px 100px 10px 100px;
+    font-size: 18px;
+    font-family: cursive;
+}
+.methods{
+    display: flex;
+    font-size:80px ;
+    color: rgb(66, 62, 62);
+    justify-content: center;
+}
+.methods *{
+    margin:20px;
+}
+.methodsPara{
+    display: flex;
+    font-size:25px ;
+    color:#ad1457;
+    justify-content: center;
+}
+.methodsPara *{
+    margin:20px
+}

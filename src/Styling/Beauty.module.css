@@ -1,0 +1,29 @@
+.facewash{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.leftDiv{
+    background-color: #9e9e9e;
+    width: 33%;
+    padding: 40px 80px 40px 80px;
+    font-weight:30px ;
+    /* justify-content: center; */
+    padding-top:100px ;
+    text-align: center;
+}
+.flexbody{
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: center; 
+    
+}
+.flexbody div{
+    margin: 20px;
+    width : 250px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px 0px 0px 0px;
+    box-shadow: 2px 2px 2px #aaaaaa;
+}

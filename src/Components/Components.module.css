@@ -1,0 +1,72 @@
+.banner{
+    margin-bottom: 10px;
+    height: 40px;
+    text-align: center;
+    color:#eceff1;
+    font-size: 30px;
+    font-weight: bold;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxvXU5iTXb7qWvwEP6dkFvM_N4QSDl3DdXfw&usqp=CAU');
+}
+.navbar{
+    height:  100px;
+}
+.button{
+    background-color: white;
+    font-size: 38px;
+    color:#ad1457;
+    outline: none;
+    border: white;
+}
+.links{
+    display: flex;
+    position: relative;
+    padding-left: 80px;
+}
+.logo{
+    flex:0.3;
+    font-size: 70px;  
+    margin-left: 150px;
+}
+.logo a{
+    color:#ad1457;
+}
+.allLinks{
+    display: flex;
+    margin-left: 300px;
+}
+  
+.mainLinks{
+    flex:0.9;
+    text-align: center;
+    position: absolute;
+    bottom: 15px;
+    left: 120px;
+}
+.mainLinks select {
+    margin:10px;
+    color:#ad1457;
+    border:0px solid white;
+    font-size: 20px;
+    outline : none;
+}
+.mainLinks a {
+    margin:10px;
+    color:#ad1457;
+    text-decoration: none;
+    font-size: 20px;
+}
+.sideLinks{
+    flex:0.2;
+    font-size: 15px; 
+    position: absolute;
+    bottom: 15px;
+    right: 10px;
+
+}
+.sideLinks a{
+    margin:10px;
+    color:#ad1457;
+    font-size: 35px;
+}
+
+

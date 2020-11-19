@@ -1,0 +1,23 @@
+.carousel{
+    margin-top: 10px;
+}
+.heading{
+    text-align: center;
+    color: #424242;
+    font-size: 27px;
+    font-style: italic;
+    font-family: monospace ;
+}
+.flexbody{
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: center; 
+}
+.flexbody div{
+    margin: 20px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px 0px 0px 0px;
+    box-shadow: 2px 2px 2px #aaaaaa;
+}

@@ -1,0 +1,43 @@
+.mainDiv{
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+   margin: 20px;
+}
+form{
+    border:1px solid black;
+    padding: 30px;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 2px 2px 2px 2px #ad1457;
+    
+
+}
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+    
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+label {
+    padding-right: 10px;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    padding: 10px 10px 25px 10px;
+    margin-left: 200px;
+    font-size: 18px;
+    border: 2px solid#ad1457;
+    background-color: whitesmoke;
+
+    
+}

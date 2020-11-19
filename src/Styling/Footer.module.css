@@ -1,0 +1,61 @@
+.footer{
+    width: 100%;
+    background-color:#e91e63;
+}
+.footerFlex{
+    display: flex;
+    justify-content: center;
+}
+.footerFlex div{
+    margin: 10px;
+    color: white;
+}
+.iconsFooter{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.iconsFooter div{
+   margin-left:15px;
+}
+.footersCircle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color:#e91e63 ;
+    margin-top: 20px;
+}
+.icons{
+    display:flex;
+}
+.blank{
+    background-color: #424242;
+    width: 100%;
+    height: 60px;
+}
+
+.questionsFooter{
+    background-color: #9e9e9e;
+}
+.displayFlex{
+    display: flex;
+    justify-content: center;
+}
+.displayFlex div{
+    margin: 13px;
+    color: whitesmoke;
+    font-size: 18px;
+
+}
+div h6{
+    line-height: 8px;
+}
+.contact{
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+.contact div{
+    margin:20px;
+    padding:5px;
+}
