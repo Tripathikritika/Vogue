@@ -1,0 +1,751 @@
+{
+  "favourites": [
+    {
+      "id": 1,
+      "category":"favourites",
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/cbe49163-aaab-4bae-bf78-8d469fe43f1e.jpg",
+      "name": "Orange Is the New Black",
+      "description" : "Get With The Sunset Eyes Trend"
+    },
+    {
+      "id": 2,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/feb764b7-03bf-4b46-8aa3-f3605ef727a5.jpg",
+      "name": "Nothing A Fresh Manicure Can't Fix",
+      "description" : "DIY Nail Saviors"
+    },
+    {
+      "id": 3,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/9e4a6aa0-a3f7-4aae-8624-227ede6bff64.jpg",
+      "name": "Stay Squeaky Clean",
+      "description" : "Mood-Boosting Shower Gels"
+    },
+    {
+      "id": 4,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/597c5ef4-363b-4610-ab0a-bcb58d49c176.jpg",
+      "name": "Under Eye Problem Solver",
+      "description" : "We've Got You Covered"
+    },
+    {
+      "id": 5,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/79f645ec-bfe7-4086-8109-027137ef6245.jpg",
+      "name": "Detoxify And Purify Your Skin",
+      "description" : "Good-For-You Clay Mask"
+    },
+    {
+      "id": 6,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/b5cb787f-318a-45da-9246-497e093af255.jpg",
+      "name": "Vitamins Are In",
+      "description" : "Tried And Tested Immunity Boosters"
+    },
+    {
+      "id": 7,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/3a77f407-24ac-47bf-8b5d-8d091a9cb89e.jpg",
+      "name": "Dry,Damaged Or Both?",
+      "description" : "Nourishing Masks For Your Mane"
+    },
+    {
+      "id": 8,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/74b6d26c-b048-4083-9aff-db03ae0e9e1e.jpg",
+      "name": "Get That Dolphin Skin Glow",
+      "description" : "Illuminating Highlights and Primers"
+    }
+    
+  ],
+  "moreOffers": [
+    {
+      "id": 1,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/941cfea8-d577-439f-abc4-253f489925ff.jpg",
+      "name": "Upto 25% OFF",
+      "description": ""
+    },
+
+    {
+      "id": 2,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/56a1d1a8-5ed8-4715-9ba1-0d32d3f5f86c.jpg",
+      "name": "Upto 25% OFF",
+      "description":"" 
+    },
+    {
+      "id": 3,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/c4832349-b455-4e39-ae89-683128757b7a.jpg",
+      "name": "Upto 20% OFF",
+      "description": "Buy Collagen & Get Vitamin C Product For Free"
+    },
+    {
+      "id": 4,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/abcf6e39-7536-47a8-a71b-09a3d7d8b95a.jpg",
+      "name": "Nykaa Safety Essentials",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/b738c1f2-cabb-47eb-ae1f-4b27b6a5057a.jpg",
+      "name": "7 Step DIY Facial Kit Only For Rs.300",
+      "description": "Get 2 Free Sunscreen Samples With Every Order"
+    },
+
+    {
+      "id": 6,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/ff9ec1df-73e4-4ab6-bed0-d38dca6ecb39.jpg",
+      "name": "upto 50% OFF",
+      "description":"Everyday Skin & Haircare Essentials" 
+    },
+    {
+      "id": 7,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/41abfb50-aa99-4052-b0d6-6565fc016515.jpg",
+      "name": "Upto 40% OFF",
+      "description": "Immunity Made Easy"
+    },
+    {
+      "id": 8,
+      "src": "https://images-static.nykaa.com/tr:w-270,c-at_max/uploads/8c7a9ab4-4de5-4e80-8062-927bbf2a773b.jpg",
+      "name": "Flat 15% OFF On Rs.799+*",
+      "description": "Flat 10% OFF On Rs.599+*"
+    }
+
+  ],
+  "beautyAdvice":[
+    {
+      "id": 1,
+      "category":"beautyAdvice",
+      "src": "https://adn-static2.nykaa.com/media/wysiwyg/beautybook_2img.jpg",
+      "name": "BEAUTY BOOK",
+      "description": "Nyka Digital Magazine"
+
+    },
+    {
+      "id": 2,
+      "category":"beautyAdvice",
+      "src": "https://adn-static2.nykaa.com/media/wysiwyg/megamenu/nykaatv_1_img.png",
+      "name": "NYKAA TV",
+      "description": "Masterclasses By Experts and Vloggers"
+    },
+    {
+      "id": 3,
+      "category":"beautyAdvice",
+      "src": "https://adn-static2.nykaa.com/media/wysiwyg/2018/buyingguide_dropdowntile.jpg",
+      "name": "BEAUTY BUYING GUIDES",
+      "description": "So You Always Make The Right Choice"
+    },
+    {
+      "id": 4,
+      "category":"beautyAdvice",
+      "src": "https://adn-static2.nykaa.com/media/wysiwyg/2019/Routine-Finder.jpg",
+      "name": "BEAUTY ROUTINE FINDER",
+      "description": "Skin, Hair & Wellness Regime In A Minute"
+    }
+  ],
+  "products" : [
+    {
+      "id": 0,
+      "category":"makeup",
+      "userdFor" : "eyes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/7/1/71249343326a_1.jpg",
+      "name": "LOreal Paris Voluminous Lash Paradise Mascara",
+      "price" : "799",
+      "title":"LOreal Paris Voluminous Lash Paradise Mascara - 204 Blackest Black",
+      "ml":"7.6ml",
+      "rating":"3107 Ratings & 1534 Reviews",
+      "off": "",
+      "description": "Buy 1 Get 1 on purchase of any Eye Product!",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 1,
+      "category":"makeup",
+      "userdFor" : "eyes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/2/22810_h_1_2_1.jpg",
+      "name": "Lakme Eyeconic Kajal",
+      "price" : "275",
+      "title":"Lakme Eyeconic Kajal - Classic Brown",
+      "ml":"0.35gm",
+      "rating":"12728 Ratings & 4844 Reviews",
+      "off": "",
+      "description": "Additional 10% Off on select Kajals valid for new customers! Minimum order value Rs. 200 and maximum discount Rs 50!",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 2,
+      "category":"makeup",
+      "userdFor" : "eyes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24272_h-8901030707988twin.jpg",
+      "name": "Lakme Eyeconic Kajal Twin Pack",
+      "price" : "310",
+      "title":"Lakme Eyeconic Kajal Twin Pack - Deep Black",
+      "ml":"0.35gm Each",
+      "rating":"6241 Ratings & 1402 Reviews",
+      "off": "",
+      "description": "",
+      "stars":"4.5/5"
+    },
+    {
+      "id": 4,
+      "category":"makeup",
+      "userdFor" : "eyes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/m/a/maybelline_vehcm.jpg",
+      "name": "Maybelline New York Hyper Curl Mascara ",
+      "price" : "202",
+      "title":"Maybelline New York Volum Express Hyper Curl Mascara - Washable Very Black",
+      "ml":"9.2ml",
+      "rating":"29303 Ratings & 10482 Reviews",
+      "off": "35% oFF",
+      "description": "Washable Very black/ Waterproof Very black",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 5,
+      "category":"makeup",
+      "userdFor" : "eyes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8903380160307_01.jpg",
+      "name": "Mascara Intense Black Finish",
+      "price" : "399",
+      "title":"Faces Canada Magneteyes Dramatic Volumizing Mascara Intense Black Finish",
+      "ml":"9.5gm",
+      "rating":"1072 Ratings & 410 Reviews",
+      "off": "",
+      "description": "Buy 1 Get 1 Free on Face, Eyes and Skin Range *Add 2 units to the cart to avail the offer!",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 6,
+      "category":"makeup",
+      "userdFor" : "eyes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/w/n/wnw_ci10pp.png",
+      "name": "Pan Palette - Nude Awakening",
+      "price" : "599",
+      "title":"Wet n Wild Color Icon Eyeshadow 10 Pan Palette - Nude Awakening",
+      "ml":"10gm",
+      "rating":"6060 Ratings & 2818 Reviews",
+      "off": "",
+      "description": "Free Lipstick on purchase of Rs. 699+",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 7,
+      "category":"makeup",
+      "userdFor" : "eyes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nyswissb00144_1.jpg",
+      "name": " Metallic Liquid Eyeshadow",
+      "price" : "199",
+      "title":"Swiss Beauty Metallic Liquid Eyeshadow - 03 Champagne",
+      "ml":"2.25ml",
+      "rating":"3186 Ratings & 1253 Reviews",
+      "off": "",
+      "description": "Free Eyeshadow on Rs 599+",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 8,
+      "category":"makeup",
+      "userdFor" : "eyes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/5/3/53c59aanypac00001778m_1.jpg",
+      "name": "PAC SuperBrowww Cream",
+      "price" : "625",
+      "title":"PAC SuperBrowww Cream - 01 Cuban Espresso",
+      "ml":"6gm",
+      "rating":"174 Ratings & 41 Reviews",
+      "off": "",
+      "description": " Cuban Espresso /Walnut wax",
+      "stars":"4.5/5"
+    },
+    {
+      "id": 9,
+      "category":"makeup",
+      "userdFor" : "lips",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/a/t/athleisure_1.jpg",
+      "name": "Matte Luxe Lipstick ",
+      "price" : "719",
+      "title":"TRY IT ON Nykaa Matte Luxe Lipstick - Avocado Toast",
+      "ml":"4.8gm",
+      "rating":"1394 Ratings & 725 Reviews",
+      "off": "10% OFF",
+      "description": "Free Mattelicious worth Rs 699 on orders of Rs 1200!",
+      "stars":"4.5/5"
+    },
+    {
+      "id": 10,
+      "category":"makeup",
+      "userdFor" : "lips",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904245704209_new_01_1.jpg",
+      "name": "Liquid Lipstick",
+      "price" : "389",
+      "title":"Nykaa Matte To Last ! Liquid Lipstick - Urja 24",
+      "ml":"4.8gm",
+      "rating":"19391 Ratings & 8869 Reviews",
+      "off": "35% OFF",
+      "description": "Free Mattelicious worth Rs 699 on orders of Rs 1200!",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 11,
+      "category":"makeup",
+      "userdFor" : "lips",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/5/651986502295_1.jpg",
+      "name": "Too Faced Melted Matte Lipstick",
+      "price" : "1600",
+      "title":"Too Faced Melted Matte Lipstick - Lady Balls",
+      "ml":"7ml",
+      "rating":"277 Ratings & 137 Reviews",
+      "off": "",
+      "description": "Complimentary Mini Damn Girl! Mascara (6ml) & Mini Primer (5ml) on Too Faced orders worth Rs.3000 & above. Offer valid till stocks last!",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 12,
+      "category":"makeup",
+      "userdFor" : "lips",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904052433347-1_3.png",
+      "name": "Lip Gloss",
+      "price" : "360",
+      "title":"Colorbar Starlit Lip Gloss - Lustre",
+      "ml":"6ml",
+      "rating":"100 Ratings & 39 Reviews",
+      "off": "20% OFF",
+      "description": "Additional 5% OFF on purchase of 2 products!",
+      "stars":"4.2/5"
+    },
+
+    {
+      "id": 13,
+      "category":"skincare",
+      "userdFor" : "face",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/s/a/saffron-_-honey_16.jpg",
+      "name": "Nykaa Naturals Face Wash",
+      "title" : "Nykaa Naturals Tea Tree & Neem Purifying Face Wash for Acne",
+      "ml":"100ml",
+      "price" : "118",
+      "off": "15% off",
+      "description": "Free Body Scrub worth Rs 350 On Orders of Rs 1000 *Offer not valid on sheetmasks & safety essential products!",
+      "ratings":"344 Ratings & 157 Reviews",
+      "stars":"4.5/5"
+
+    },
+    {
+      "id": 14,
+      "category":"skincare",
+      "userdFor" : "face",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904311901679_1.jpg",
+      "name": "WOW Skin Apple Cider Vinegar ",
+      "price" : "384",
+      "title":"WOW Skin Science Apple Cider Vinegar Foaming Face Wash with Built-In Brush",
+      "ml":"100ml",
+      "ratings":"2810 Ratings & 738 Reviews",
+      "off": "4% off",
+      "description": "Extra 10% off on INR 699 and above!",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 15,
+      "category":"skincare",
+      "userdFor" : "face",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8906009454238_new1_1.jpg",
+      "name": "Biotique Bio Neem ",
+      "price" : "41",
+      "title":"Biotique Bio Neem Purifying Face Wash Prevents Pimples For All Skin Types",
+      "ml":"50ml",
+      "rating":"5417 Ratings & 1679 Reviews",
+      "off": "25% off",
+      "description": "",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 16,
+      "category":"skincare",
+      "userdFor" : "face",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/b/s/bs-52108001-resize.jpg",
+      "name": "Tea Tree",
+      "title" : "The Body Shop Tea Tree Skin Clearing Facial Wash",
+      "ml":"250ml",
+      "price" : "659",
+      "off": "15% off",
+      "description": "Free Body Scrub worth Rs 350 On Orders of Rs 1000 *Offer not valid on sheetmasks & safety essential products!",
+      "ratings":"",
+      "stars":"4.4/5"
+
+    },
+    {
+      "id": 17,
+      "category":"skincare",
+      "userdFor" : "moisturizes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/1/2/12979_h-89011030733512.jpg",
+      "name": "Argan Oil",
+      "title" : "Lakme Absolute Argan Oil Radiance Oil-In Gel Cream",
+      "ml":"50gm",
+      "price" : "531",
+      "off": "15% off",
+      "description": "",
+      "ratings":"107 Ratings & 30 Reviews",
+      "stars":"4.1/5"
+    },
+    {
+      "id": 18,
+      "category":"skincare",
+      "userdFor" : "moisturizes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/p/d/pd_surltmo_1.jpg",
+      "name": "Light Gel Oil",
+      "title" : "Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E",
+      "ml":"147gm",
+      "price" : "299",
+      "off": "",
+      "description": "",
+      "ratings":"9725 Ratings & 4241 Reviews",
+      "stars":"4.5/5"
+    },
+    {
+      "id": 19,
+      "category":"skincare",
+      "userdFor" : "moisturizes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/6/268cc188904035423624update-1.jpg",
+      "name": "Light Gel Oil",
+      "title" : "Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E",
+      "ml":"30ml",
+      "price" : "1095",
+      "off": "",
+      "description": "Free hand cream worth Rs.395 on Rs.1099 & above!",
+      "ratings":"9659 Ratings & 3955 Reviews ",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 20,
+      "category":"skincare",
+      "userdFor" : "moisturizes",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/0/20714898120---moisture-surge-72-hour-15-ml.jpg",
+      "name": "Clinique Moisture",
+      "title" : "Clinique Moisture Surge 72-Hour Auto-Replenishing Hydrator Mini",
+      "ml":"15ml",
+      "price" : "890",
+      "off": "",
+      "description": "",
+      "ratings":"9659 Ratings & 3955 Reviews",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 21,
+      "category":"skincare",
+      "userdFor" : "mask",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901526003921_2.jpg",
+      "name": "Face Serum Sheet Mask Pack of 5",
+      "title" : "Garnier Skin Naturals Face Serum Sheet Mask Pack of 5",
+      "ml":"160gm",
+      "price" : "375",
+      "off": "25% OFF",
+      "description": "",
+      "ratings":"60 Ratings & 13 Reviews",
+      "stars":"4.5/5"
+    },
+    {
+      "id": 22,
+      "category":"skincare",
+      "userdFor" : "mask",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/e/f/efdb1798886482915238_1.jpg",
+      "name": "Clay Porefining Face Mask",
+      "title" : "Sand & Sky Australian Pink Clay Porefining Face Mask",
+      "ml":"60gm",
+      "price" : "2499",
+      "off": "",
+      "description": "",
+      "ratings":"18 Ratings & 14 Reviews",
+      "stars":"4.1/5"
+    },
+    {
+      "id": 23,
+      "category":"skincare",
+      "userdFor" : "mask",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904245705718_1new.jpg",
+      "name": "Nykaa Skin Secrets",
+      "title" : "Nykaa Skin Secrets Green Tea + Aloe Vera Sheet Mask",
+      "ml":"620ml",
+      "price" : "2499",
+      "off": "",
+      "description": "Buy 7 Sheetmasks Get 7 Free | Add 14 to cart & Pay for 7!",
+      "ratings":"70321 Ratings & 14653 Reviews",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 24,
+      "category":"skincare",
+      "userdFor" : "mask",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/u/b/ubtan-face-mask-1.jpg",
+      "name": "Ubtan Face Mask ",
+      "title" : "Mamaearth Ubtan Face Mask For Skin Lightening & Brightening",
+      "ml":"100gm",
+      "price" : "499",
+      "off": "",
+      "description": "",
+      "ratings":"3167 Ratings & 1133 Reviews",
+      "stars":"4.3/5"
+    },
+
+    {
+      "id":25,
+      "category":"hairCare",
+      "userdFor" : "hairOil",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/b/2/b28a60f6923700970449_1.jpg",
+      "name": "L'Oreal Paris Extraordinary Oil Serum",
+      "title" : "L'Oreal Paris Extraordinary Oil Serum",
+      "ml":"100ml",
+      "price" : "499",
+      "off": "15% off",
+      "description": "Free Facewash on Purchase of Rs. 699!",
+      "ratings":"280 Ratings & 117 Reviews",
+      "stars":"4.6/5"
+
+    },
+    {
+      "id": 26,
+      "category":"hairCare",
+      "userdFor" : "hairOil",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8906087771685.jpg",
+      "name": "Mamaearth Onion Hair Mask For Hair Fall Control",
+      "price" : "599",
+      "title":"Mamaearth Onion Hair Mask For Hair Fall Control",
+      "ml":"200gm",
+      "ratings":"3667 Ratings & 1307 Reviews",
+      "off": "",
+      "description": "Free Oil Free Moisturizer on purchase of Rs 449!",
+      "stars":"4.2/5"
+    },
+    {
+      "id": 27,
+      "category":"hairCare",
+      "userdFor" : "hairOil",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nywow00107.jpg",
+      "name": "WOW Skin Science Aloe Vera Gel",
+      "price" : "270",
+      "title":"WOW Skin Science Aloe Vera Gel",
+      "ml":"150ml",
+      "rating":"6481 Ratings & 2191 Reviews",
+      "off": "10% off",
+      "description": "Extra 10% off on INR 699 and above!",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 28,
+      "category":"hairCare",
+      "userdFor" : "hairOil",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/s/p/sp_oil_30_tec_w_1_1.jpg",
+      "name": "Luxe Oil",
+      "title" : "SP Luxe Oil Reconstructive Elixir For Keratin Protection",
+      "ml":"30ml",
+      "price" : "1000",
+      "description": "Free Mattelicious worth Rs 699 on orders of Rs 1200!",
+      "ratings":"522 Ratings & 224 Reviews",
+      "stars":"4.3/5",
+      "off": ""
+    },
+    {
+      "id": 29,
+      "category":"hairCare",
+      "userdFor" : "hairShampoo",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/t/r/tr_ksaos.jpg",
+      "name": "Luxe Oil",
+      "title" : "Tresemme Keratin Smooth With Argan Oil Shampoo",
+      "ml":"340ml",
+      "price" : "208",
+      "off": "15% off",
+      "description": "Free Mattelicious worth Rs 699 on orders of Rs 1200!",
+      "ratings":"6900 Ratings & 2226 Reviews",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 30,
+      "category":"hairCare",
+      "userdFor" : "hairShampoo",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/0/8005610639161_8_1.jpg",
+      "name": "Deep Nourishing Shampoo",
+      "title" : "Wella Professionals INVIGO Nutri Enrich Deep Nourishing Shampoo",
+      "ml":"250ml",
+      "price" : "620",
+      "off": "15% off",
+      "description": "",
+      "ratings":"2822 Ratings & 960 Reviews",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 31,
+      "category":"hairCare",
+      "userdFor" : "hairShampoo",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nykmecom00024.jpg",
+      "name": "Mamaearth Onion Anti Hair Fall Regular Kit",
+      "title" : "Mamaearth Onion Anti Hair Fall Regular Kit",
+      "ml":"",
+      "price" : "1097",
+      "off": "",
+      "description": "",
+      "ratings":"8362 Ratings & 90 Reviews",
+      "stars":"4/5"
+    },
+    {
+      "id": 32,
+      "category":"hairCare",
+      "userdFor" : "hairShampoo",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/i/n/in_bahs.jpg",
+      "name": "Indulekha Bringha Hair Cleanser",
+      "title" : "Indulekha Bringha Hair Cleanser",
+      "ml":"100ml",
+      "price" : "135",
+      "off": "",
+      "description": "",
+      "ratings":"2572 Ratings & 776 Reviews",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 33,
+      "category":"hairCare",
+      "userdFor" : "hairColor",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901526100620_1_2.jpg",
+      "name": "L'Oreal Paris Excellence Creme Hair Color",
+      "title" : "L'Oreal Paris Excellence Creme Hair Color - 4.25 Aishwarya's Brown",
+      "ml":"72ml+100gm",
+      "price" : "620",
+      "off": "",
+      "description": "Brown /  LightBrown / Black /Natural Brown",
+      "ratings":"2536 Ratings & 719 Reviews",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 34,
+      "category":"hairCare",
+      "userdFor" : "hairColor",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/3/6/3600523192687.1.jpg",
+      "name": "L'Oreal Paris Magic Retouch",
+      "title" : "L'Oreal Paris Magic Retouch Instant Root Concealer Spray - 1 Black",
+      "ml":"75ml",
+      "price" : "575",
+      "off": "",
+      "description": "Black",
+      "ratings":"1298 Ratings & 549 Reviews",
+      "stars":"3.8/5"
+    },
+    {
+      "id": 35,
+      "category":"hairCare",
+      "userdFor" : "hairColor",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8906014830119_1_1.jpg",
+      "name": "Kama Ayurveda Organic Henna Powder",
+      "title" : "Kama Ayurveda Organic Henna Powder",
+      "ml":"100gm",
+      "price" : "675",
+      "off": "",
+      "description": "",
+      "ratings":"205 Ratings & 81 Reviews",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 36,
+      "category":"hairCare",
+      "userdFor" : "hairColor",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/s/t/streax-hair-colour.jpg",
+      "name": "Streax Ultralights Highlighting Kit",
+      "title" : "Streax Ultralights Highlighting Kit - Soft Red",
+      "ml":"40gm+40ml",
+      "price" : "152",
+      "off": "5% oFF",
+      "description": "Soft Red/ Soft Blonde /Vibrant Red / Vibrant Blonde",
+      "ratings":"717 Ratings & 231 Reviews",
+      "stars":"4.2/5"
+    },
+
+    {
+      "id": 37,
+      "category":"nail",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24615_h-8901030765780.jpg",
+      "name": "Lakme Absolute Nail Color",
+      "price" : "250",
+      "title":"1236 Ratings & 455 Reviews",
+      "ml":"200gm",
+      "off": "",
+      "ratings":"1236 Ratings & 455 Reviews",
+      "description": "Buy 2 Get 1 Free on Lakme Nails! *Add any 3 Lakme Nail products to cart & get the lowest 1 free!",
+      "stars":"4.2/5"
+    },
+    {
+      "id": 38,
+      "category":"nail",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/e/4/e4edc2c8903380007978_1.jpg",
+      "name": "Faces Canada Pack ",
+      "price" : "299",
+      "title":"Faces Canada Pack of 4 Nail Paint Gift Box Combo",
+      "ml":"32ml",
+      "rating":"564 Ratings & 155 Reviews",
+      "description": "Free Faces Canada Intense Matte Lipstick on Rs 999",
+      "stars":"4.6/5"
+    },
+    {
+      "id": 39,
+      "category":"nail",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/1/9/19615_h-8901030175039.jpg",
+      "name": "Lakme Nail Colour Remover ",
+      "price" : "95",
+      "title":"Lakme Nail Colour Remover with Vitamin E",
+      "ml":"27ml",
+      "rating":"5394 Ratings & 1195 Reviews",
+      "description": "Buy 2 Get 1 Free on Lakme Nails! *Add any 3 Lakme Nail products to cart & get the lowest 1 free!",
+      "stars":"4.6/5"
+    },
+    {
+      "id": 40,
+      "category":"nail",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/1/5/157453.jpg",
+      "name": "O.P.I Nail Lacque",
+      "price" : "850",
+      "title":"O.P.I Nail Lacquer - A Good Man-Darin Is Hard To Find",
+      "ml":"15ml",
+      "rating":"737 Ratings & 340 Reviews",
+      "description": "A Good Man-Darin Is Hard To Find",
+      "stars":"4.3/5"
+    },
+    {
+      "id": 41,
+      "category":"nail",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8903380015669.jpg",
+      "name": "Faces Canada Nail Enamel Remover",
+      "price" : "84",
+      "title":"Faces Canada Nail Enamel Remover",
+      "ml":"30ml",
+      "off": "15% oFF",
+      "rating":"1518 Ratings & 418 Reviews",
+      "description": "",
+      "stars":"4.4/5"
+    },
+    {
+      "id": 42,
+      "category":"nail",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/a/a/aae4b02649754244102.jpg",
+      "name": "Rozia False Nails Set",
+      "price" : "339",
+      "title":"Rozia False Nails Set with Glue Fake Nails Set of 24, Multicolor",
+      "ml":"24Pcs",
+      "off": "3% oFF",
+      "rating":"",
+      "description": "",
+      "stars":""
+    },
+    {
+      "id": 43,
+      "category":"nail",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nynykbc000084_re_norma.jpg",
+      "name": "Nykaa Dreamy Nudes",
+      "price" : "430",
+      "title":"Nykaa Dreamy Nudes Nail Enamel Combo",
+      "ml":"30ml",
+      "off": "20% oFF",
+      "rating":"229 Ratings & 33 Reviews",
+      "description": "Free Mattelicious worth Rs 699 on orders of Rs 1200!",
+      "stars":"4.2/5"
+    },
+    {
+      "id": 44,
+      "category":"nail",
+      "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/_/6_1_.jpg",
+      "name": "Nykaa Dreamy Nudes",
+      "price" : "1505",
+      "title":"DeBelle Nail Lacquer Champagne Cheer Set of 6",
+      "ml":"48ml",
+      "off": "15% oFF",
+      "rating":"3 Ratings & 2 Reviews",
+      "description": "",
+      "stars":"3.7/5"
+    }
+  ]
+}
