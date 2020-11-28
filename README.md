@@ -26,7 +26,7 @@ The private routing sprint project @Masai School.
 
 ## Screenshot
 
-<img src="./public/ScreenShot.png" alt="Landing Page" width="400px" />
+<img src="./public/ScreenShot.png" alt="Landing Page" width="700px" />
 
 ## Installation
 
@@ -36,6 +36,7 @@ The private routing sprint project @Masai School.
 ## Credits
 
 `https://www.nykaa.com/`
+
 `https://masaischool.com/`
 
 [cssplaylist]: #
