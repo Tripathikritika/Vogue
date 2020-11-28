@@ -1,6 +1,6 @@
 ## Vogue - Womens Website
 
-The project is all about Womens Beauty product. It includes products for skin care , hair care and nail care. 
+The project is all about Womens Beauty product. It includes products for skin care , hair care and nail care.
 
 ## Motivation
 
@@ -22,11 +22,11 @@ The private routing sprint project @Masai School.
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
-
 <br/>
 
 ## Screenshot
-<img src="ScreenShot.png" alt="Landing Page" width="400px" />
+
+<img src="./public/ScreenShot.png" alt="Landing Page" width="400px" />
 
 ## Installation
 
