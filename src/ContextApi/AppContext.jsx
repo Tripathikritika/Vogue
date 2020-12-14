@@ -15,19 +15,19 @@ class AppContextProvider extends React.Component {
         }
     }
     componentDidMount(){
-        axios.get('http://localhost:3000/favourites')
+        axios.get('https://mod-living-db.herokuapp.com/favourites')
         .then(res => this.setState({
             favouritedata : res.data
         }))
         .catch((err) => console.log("Error"))
 
-        axios.get('http://localhost:3000/moreOffers')
+        axios.get('https://mod-living-db.herokuapp.com/moreOffers')
         .then(res => this.setState({
             moreOffersData : res.data
         }))
         .catch((err) => console.log("Error"))
 
-        axios.get('http://localhost:3000/products')
+        axios.get('https://mod-living-db.herokuapp.com/product')
         .then(res => this.setState({
             productsCare : res.data
         }))
@@ -45,7 +45,7 @@ class AppContextProvider extends React.Component {
         // }))
         // .catch((err) => console.log("Error"))
 
-        axios.get('http://localhost:3000/beautyAdvice')
+        axios.get('https://mod-living-db.herokuapp.com/beautyAdvice')
         .then(res => this.setState({
             beautyAdvice : res.data
         }))
